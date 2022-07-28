@@ -1,4 +1,4 @@
-package projects;
+ package projects;
 
 import java.util.*;
 
@@ -10,11 +10,8 @@ public class Mapdemo {
 	      hm.put(2,"basha");    
 	      hm.put(3,"mark");   
 	       
-	      System.out.println("\nThe elements of Hashmap are ");  
-	      for(Map.Entry m:hm.entrySet()){    
-	       System.out.println(m.getKey()+" "+m.getValue());    
-	      }
-
+	      System.out.println("\nThe elements of Hashmap are "+hm);  
+	     
 	      Hashtable<Integer,String> ht=new Hashtable<Integer,String>();  
 	      
 	      ht.put(4,"manick");  
@@ -22,12 +19,11 @@ public class Mapdemo {
 	      ht.put(6,"bai");  
 	      ht.put(7,"lakalaka");  
 
-	      System.out.println("\nThe elements of HashTable are ");  
-	      for(Map.Entry n:ht.entrySet()){    
-	       System.out.println(n.getKey()+" "+n.getValue());    
+	      System.out.println("\nThe elements of HashTable are "+ht);  
+	         
 	      }
 	      
 	     
-	}
-
 }
+
+
