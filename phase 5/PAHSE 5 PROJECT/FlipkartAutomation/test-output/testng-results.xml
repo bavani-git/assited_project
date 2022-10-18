@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-18T15:55:30 IST" name="Default suite" finished-at="2022-10-18T15:57:53 IST" duration-ms="142915">
+    <groups>
+    </groups>
+    <test started-at="2022-10-18T15:55:30 IST" name="Default test" finished-at="2022-10-18T15:57:53 IST" duration-ms="142915">
+      <class name="TestngAutomation.FlipkartAutomation.NewTest">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:TestngAutomation.FlipkartAutomation.NewTest@15bbf42f]" started-at="2022-10-18T15:55:30 IST" name="beforeClass" finished-at="2022-10-18T15:57:13 IST" duration-ms="103661" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="navigate()[pri:1, instance:TestngAutomation.FlipkartAutomation.NewTest@15bbf42f]" started-at="2022-10-18T15:57:14 IST" name="navigate" finished-at="2022-10-18T15:57:22 IST" duration-ms="8771" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate -->
+        <test-method signature="loadImage()[pri:2, instance:TestngAutomation.FlipkartAutomation.NewTest@15bbf42f]" started-at="2022-10-18T15:57:22 IST" name="loadImage" finished-at="2022-10-18T15:57:39 IST" duration-ms="16735" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadImage -->
+        <test-method signature="bottom()[pri:3, instance:TestngAutomation.FlipkartAutomation.NewTest@15bbf42f]" started-at="2022-10-18T15:57:39 IST" name="bottom" finished-at="2022-10-18T15:57:43 IST" duration-ms="4028" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bottom -->
+        <test-method signature="Scrollavailable()[pri:4, instance:TestngAutomation.FlipkartAutomation.NewTest@15bbf42f]" started-at="2022-10-18T15:57:43 IST" name="Scrollavailable" finished-at="2022-10-18T15:57:43 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scrollavailable -->
+        <test-method signature="scrollFrequency()[pri:5, instance:TestngAutomation.FlipkartAutomation.NewTest@15bbf42f]" started-at="2022-10-18T15:57:43 IST" name="scrollFrequency" finished-at="2022-10-18T15:57:45 IST" duration-ms="2034" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrollFrequency -->
+        <test-method signature="screenResolution()[pri:6, instance:TestngAutomation.FlipkartAutomation.NewTest@15bbf42f]" started-at="2022-10-18T15:57:45 IST" name="screenResolution" finished-at="2022-10-18T15:57:53 IST" duration-ms="7582" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenResolution -->
+        <test-method is-config="true" signature="aftertest()[pri:0, instance:TestngAutomation.FlipkartAutomation.NewTest@15bbf42f]" started-at="2022-10-18T15:57:53 IST" name="aftertest" finished-at="2022-10-18T15:57:53 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+      </class> <!-- TestngAutomation.FlipkartAutomation.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
